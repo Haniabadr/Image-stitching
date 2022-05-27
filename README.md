@@ -12,4 +12,5 @@ This project is part of a bigger project which is capturing the retina and class
 * then we applied **Homography** 
 * after this **image warping** was applied 
 * and last step was trimming the black areas resulting from the stitching process around the retina 
-this algorithm can stitch any number of images ,  so for example if you're stitching three images it will stitch first two together then the resulting image will be stitched with the third image 
+
+This algorithm can stitch any number of images ,  so for example if you're stitching three images it will stitch first two together then the resulting image will be stitched with the third image 
