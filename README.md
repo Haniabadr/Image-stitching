@@ -74,7 +74,8 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 ![results_2](https://user-images.githubusercontent.com/103740764/170628874-a1442626-c8e8-417e-a3a3-9d921550fbb5.PNG)
 
 To see the results of the nine combinations check our presentation 
-https://docs.google.com/presentation/d/1H4gMagRwKGyAdIOS6C-PiwEj1j8JAgDd/edit?usp=sharing&ouid=101559812285838275889&rtpof=true&sd=true
+#### - [Presentation Link](https://docs.google.com/presentation/d/1H4gMagRwKGyAdIOS6C-PiwEj1j8JAgDd/edit?usp=sharing&ouid=101559812285838275889&rtpof=true&sd=true)
+
 
 # Conclusion:
 * From the previous results we conclude that SIFT with KNN Flann based matcher is the best combination as it has the fastest feature matching and the best accuracy, also its noted that the ORB with its three combinations gave the worst results . <br>
