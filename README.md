@@ -68,3 +68,21 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 * The following image shows the input image, then the enhanced input image then the result after slicing it into nine images then the following image show the result of the stitching process.
 
 ![results](https://user-images.githubusercontent.com/103740764/170628042-655d5fd2-ac46-4973-895d-acb82bd0905c.PNG)
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+![results_2](https://user-images.githubusercontent.com/103740764/170628874-a1442626-c8e8-417e-a3a3-9d921550fbb5.PNG)
+
+To see the results of the nine combinations check our presentation 
+https://docs.google.com/presentation/d/1H4gMagRwKGyAdIOS6C-PiwEj1j8JAgDd/edit?usp=sharing&ouid=101559812285838275889&rtpof=true&sd=true
+
+# Conclusion:
+* From the previous results we conclude that SIFT with KNN Flann based matcher is the best combination as it has the fastest feature matching and the best accuracy, also its noted that the ORB with its three combinations gave the worst results . <br>
+Important note that this results was under certain tunning parameters which means that if these parameters changed these results may change accordingly , the overlapping area were set to 25% of the original image and there original image was spliced to nine images (M=N=3) .
+Our algorithm proved that it can work accurately with min of f=0.08
+Trade off between speed and increasing number of images to be stitched.
+
+
+
+
+
