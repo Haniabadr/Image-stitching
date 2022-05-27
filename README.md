@@ -17,3 +17,12 @@ This algorithm can stitch any number of images ,  so for example if you're stitc
 
 **as a result of trying three Feature extraction methods with three Feature matching methods we got nine different combinations/algorithms**
 
+# Simulation:
+As i mentioned earlier the objective of this code is stitching multiple retinal images to get a panoramic view and as the mechanism that captures the retinal images wasn't ready yet when we developed this code and we wanted to test it **so we developed a piece of code that slices the image into any desired number of images** so that we can stitch them back together and see if it's working properly, **in order to be able to stitch any two images together there must be an overlaping area or common area between them so that the algorithm would find common features between them to match, so we controlled this area while slicing the images using some parameters**
+
+**the illustration below shows what we mean by overlapping area between images incase we are stitching nine images together which is just an example to illustrate the idea behind the code but you can stitch any number of images you want**
+
+
+
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/103740764/170622806-1b39af81-5d23-4c18-a396-b0b9ba6741a7.png)
+
