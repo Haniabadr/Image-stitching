@@ -14,5 +14,6 @@ This project is part of a bigger project which is capturing the retina and class
 * and last step was trimming the black areas resulting from the stitching process around the retina 
 
 This algorithm can stitch any number of images ,  so for example if you're stitching three images it will stitch first two together then the resulting image will be stitched with the third image
+
 **as a result of trying three Feature extraction methods with three Feature matching methods we got nine different combinations/algorithms**
 
