@@ -63,3 +63,8 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 7- RANSAC threshold value <br>
 8- Ratio for LOWES Ratio test <br>
 -The upcoming results depends on these parameters, so if we changed them the results may change. <br>
+
+# Results:
+* The following image shows the input image, then the enhanced input image then the result after slicing it into nine images then the following image show the result of the stitching process.
+
+![results](https://user-images.githubusercontent.com/103740764/170628042-655d5fd2-ac46-4973-895d-acb82bd0905c.PNG)
