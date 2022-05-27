@@ -28,13 +28,13 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 
 # For more illustrations and details about the algorithm :
 
-**Feature Extraction:
+## Feature Extraction:
 
 
 ![Capture1_1](https://user-images.githubusercontent.com/103740764/170625065-add03ce9-77a1-428b-bdc9-95afb988050c.PNG)
 
-**Feature Matching:
+## Feature Matching:
 ![Capture1_2](https://user-images.githubusercontent.com/103740764/170625193-a1261d5a-8a4b-499e-9e11-0d0cefc98b9c.PNG)
 
 
-![Capture_2 (2)](https://user-images.githubusercontent.com/103740764/170625467-8fc12dca-7fe1-45e8-9d24-bb66fe91a573.PNG)
+![Capture_2 (3)](https://user-images.githubusercontent.com/103740764/170625592-49edb8f7-6a38-4828-afda-7da387d5a4e9.PNG)
