@@ -69,7 +69,7 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 
 ![results](https://user-images.githubusercontent.com/103740764/170628042-655d5fd2-ac46-4973-895d-acb82bd0905c.PNG)
 -------------------------------------------------------------------------------------------------------------------------------
-
+## Stitched image:
 
 ![results_2](https://user-images.githubusercontent.com/103740764/170628874-a1442626-c8e8-417e-a3a3-9d921550fbb5.PNG)
 
