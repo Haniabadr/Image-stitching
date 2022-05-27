@@ -83,6 +83,11 @@ Important note that this results was under certain tunning parameters which mean
 Our algorithm proved that it can work accurately with min of f=0.08
 Trade off between speed and increasing number of images to be stitched.
 
+# Instruction:
+* To try the algorithm download the data folder it contains four pictures that you can try inserting to the code you just need to download the images at the same folder where you downloaded the code, then insert the image name inside <br>
+* img = cv2.imread('')
+* the algorithm will take the inserted picture slice it to 9 pictures if you want to change number of sliced images you can change this from line 259 and line 266(N and M) number of horizontal and vertical images .
+* if any problem occured during trying any of the images try to increase the overlapping area between the images you,ll find these parameters in the tuning parameters explained above .
 
 
 
