@@ -53,7 +53,7 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 ![Capture_5 (2)](https://user-images.githubusercontent.com/103740764/170625895-4a8db20b-8581-40cf-a574-4cc3e6b5660d.PNG)
 -------------------------------------------------------------------------------------------------------------------------
 # Tuning Parameters:
-**We used some tuning parameters that we need to insert in the code first before runing it in order to be able to control the stitching process**
+**We used some tuning parameters that we need to insert in the code first before runing it in order to be able to control the stitching process** <br>
 1- N (number of horizontal images) <br>
 2- M (number of vertical images) <br>
 3- F (percentage of overlapping area from the spliced image) <br>
