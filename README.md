@@ -26,3 +26,10 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/103740764/170622806-1b39af81-5d23-4c18-a396-b0b9ba6741a7.png)
 
+# For more illustrations and details about the algorithm :
+
+
+![Capture_1](https://user-images.githubusercontent.com/103740764/170624683-87bfbab6-9b20-4250-9aa6-35ae5a7de808.PNG)
+
+
+![Capture_2](https://user-images.githubusercontent.com/103740764/170624706-d76be901-6030-45c2-9989-4bb9a529f08c.PNG)
