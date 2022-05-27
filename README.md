@@ -38,3 +38,12 @@ As i mentioned earlier the objective of this code is stitching multiple retinal 
 
 
 ![Capture_2 (3)](https://user-images.githubusercontent.com/103740764/170625592-49edb8f7-6a38-4828-afda-7da387d5a4e9.PNG)
+
+
+![Capture_3 (2)](https://user-images.githubusercontent.com/103740764/170625768-d5fae187-37d2-40e3-bd41-b0fbd493a1a2.PNG)
+
+
+![Capture_4 (2)](https://user-images.githubusercontent.com/103740764/170625825-92d6495a-998b-45e1-b103-9654c02ee1fe.PNG)
+
+
+![Capture_5 (2)](https://user-images.githubusercontent.com/103740764/170625895-4a8db20b-8581-40cf-a574-4cc3e6b5660d.PNG)
