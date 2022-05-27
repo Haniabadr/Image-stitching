@@ -20,7 +20,7 @@ This algorithm can stitch any number of images ,  so for example if you're stitc
 # Simulation:
 As i mentioned earlier the objective of this code is stitching multiple retinal images to get a panoramic view and as the mechanism that captures the retinal images wasn't ready yet when we developed this code and we wanted to test it **so we developed a piece of code that slices the image into any desired number of images** so that we can stitch them back together and see if it's working properly, **in order to be able to stitch any two images together there must be an overlaping area or common area between them so that the algorithm would find common features between them to match, so we controlled this area while slicing the images using some parameters**
 
-**the illustration below shows what we mean by overlapping area between images incase we are stitching nine images together which is just an example to illustrate the idea behind the code but you can stitch any number of images you want**
+**the illustration below shows what we mean by overlapping area between images incase we are stitching nine images together which is just an example to illustrate the idea behind the code but you can stitch any number of images you want, the N images is the number of images horizontally, the M images is the number of imgages vertically, delta is the overlapping area between two images horizontaly and delta 2 is overlaping area between two images vertically**
 
 
 
