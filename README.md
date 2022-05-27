@@ -5,3 +5,7 @@ This project is part of a bigger project which is capturing the retina and class
 
 # Algorithm architecture:
 
+* We applied image enhancement techniques like Clahe and adaptive gamma correction **(this was a research paper that we converted to a code)** and it made the code alot   more generic and enhanced it's performance alot
+* then we used Feature extraction methods to extract the features of the image we tried three different methods **(SIFT ,SURF and ORB)**
+* We used Feature matching methods after this to match these extracted Features, we tried three different methods **(brute force matcher, brute force KNN and Flann based using KNN)** 
+*  
